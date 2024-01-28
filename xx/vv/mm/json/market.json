@@ -1,0 +1,147 @@
+[
+  {
+    "name": "推薦",
+    "list": [
+      {
+        "name": "电视-java",
+        "url": "https://fm.caioa.link/main/apk/release/leanback-java-armeabi_v7a.apk",
+        "icon": "https://d-ssl.dtstatic.com/uploads/blog/202204/17/20220417163301_c0a6a.thumb.700_0.jpg_webp",
+        "version": "v7a"
+      },
+      {
+        "name": "手机-java",
+        "url": "https://fm.caioa.link/main/apk/release/mobile-java-arm64_v8a.apk",
+        "icon": "https://d-ssl.dtstatic.com/uploads/blog/202204/17/20220417163301_c0a6a.thumb.700_0.jpg_webp",
+        "version": "v8a"
+      },
+      {
+        "name": "本地包",
+        "url": "https://1762416786@qq.com:az8irun47w8w43vi@dav.jianguoyun.com/dav/TV/2.json",
+        "icon": "https://d-ssl.dtstatic.com/uploads/blog/202204/17/20220417163301_c0a6a.thumb.700_0.jpg_webp",
+        "version": "v1.8"
+      }
+    ]
+  },
+  {
+    "name": "电视版",
+    "list": [
+      {
+        "name": "電視-java",
+        "url": "https://fm.caioa.link/main/apk/release/leanback-java-armeabi_v7a.apk",
+        "icon": "https://d-ssl.dtstatic.com/uploads/blog/202204/17/20220417163301_c0a6a.thumb.700_0.jpg_webp",
+        "version": "v7a"
+      },
+      {
+        "name": "電視-java",
+        "url": "https://fm.caioa.link/main/apk/release/leanback-java-arm64_v8a.apk",
+        "icon": "https://d-ssl.dtstatic.com/uploads/blog/202204/17/20220417163301_c0a6a.thumb.700_0.jpg_webp",
+        "version": "v8a"
+      },
+      {
+        "name": "電視-py",
+        "url": "https://fm.caioa.link/main/apk/release/leanback-python-armeabi_v7a.apk",
+        "icon": "https://d-ssl.dtstatic.com/uploads/blog/202204/17/20220417163301_c0a6a.thumb.700_0.jpg_webp",
+        "version": "v7a"
+      },
+      {
+        "name": "電視-py",
+        "url": "https://fm.caioa.link/main/apk/release/leanback-python-arm64_v8a.apk",
+        "icon": "https://d-ssl.dtstatic.com/uploads/blog/202204/17/20220417163301_c0a6a.thumb.700_0.jpg_webp",
+        "version": "v8a"
+      }
+    ]
+  },
+  {
+    "name": "手机版",
+    "list": [
+      {
+        "name": "手機-java",
+        "url": "https://fm.caioa.link/main/apk/release/mobile-java-armeabi_v7a.apk",
+        "icon": "https://d-ssl.dtstatic.com/uploads/blog/202204/17/20220417163301_c0a6a.thumb.700_0.jpg_webp",
+        "version": "v7a"
+      },
+      {
+        "name": "手機-java",
+        "url": "https://fm.caioa.link/main/apk/release/mobile-java-arm64_v8a.apk",
+        "icon": "https://d-ssl.dtstatic.com/uploads/blog/202204/17/20220417163301_c0a6a.thumb.700_0.jpg_webp",
+        "version": "v8a"
+      },
+      {
+        "name": "手機-py",
+        "url": "https://fm.caioa.link/main/apk/release/mobile-python-armeabi_v7a.apk",
+        "icon": "https://d-ssl.dtstatic.com/uploads/blog/202204/17/20220417163301_c0a6a.thumb.700_0.jpg_webp",
+        "version": "v7a"
+      },
+      {
+        "name": "手機-py",
+        "url": "https://fm.caioa.link/main/apk/release/mobile-python-arm64_v8a.apk",
+        "icon": "https://d-ssl.dtstatic.com/uploads/blog/202204/17/20220417163301_c0a6a.thumb.700_0.jpg_webp",
+        "version": "v8a"
+      }
+    ]
+  },
+  {
+    "name": "4.x版",
+    "list": [
+      {
+        "name": "4.4 電視版",
+        "url": "https://fm.caioa.link/main/apk/kitkat/leanback.apk",
+        "icon": "https://d-ssl.dtstatic.com/uploads/blog/202204/17/20220417163301_c0a6a.thumb.700_0.jpg_webp",
+        "version": "v7a"
+      }
+    ]
+  },
+  {
+    "name": "內測版",
+    "list": [
+      {
+        "name": "電視-java",
+        "url": "https://fm.caioa.link/main/apk/dev/leanback-java-armeabi_v7a.apk",
+        "icon": "https://d-ssl.dtstatic.com/uploads/blog/202204/17/20220417163301_c0a6a.thumb.700_0.jpg_webp",
+        "version": "v7a"
+      },
+      {
+        "name": "電視-java",
+        "url": "https://fm.caioa.link/main/apk/dev/leanback-java-arm64_v8a.apk",
+        "icon": "https://d-ssl.dtstatic.com/uploads/blog/202204/17/20220417163301_c0a6a.thumb.700_0.jpg_webp",
+        "version": "v8a"
+      },
+      {
+        "name": "電視-py",
+        "url": "https://fm.caioa.link/main/apk/dev/leanback-python-armeabi_v7a.apk",
+        "icon": "https://d-ssl.dtstatic.com/uploads/blog/202204/17/20220417163301_c0a6a.thumb.700_0.jpg_webp",
+        "version": "v7a"
+      },
+      {
+        "name": "電視-py",
+        "url": "https://fm.caioa.link/main/apk/dev/leanback-python-arm64_v8a.apk",
+        "icon": "https://d-ssl.dtstatic.com/uploads/blog/202204/17/20220417163301_c0a6a.thumb.700_0.jpg_webp",
+        "version": "v8a"
+      },
+      {
+        "name": "手機-java",
+        "url": "https://fm.caioa.link/main/apk/dev/mobile-java-armeabi_v7a.apk",
+        "icon": "https://d-ssl.dtstatic.com/uploads/blog/202204/17/20220417163301_c0a6a.thumb.700_0.jpg_webp",
+        "version": "v7a"
+      },
+      {
+        "name": "手機-java",
+        "url": "https://fm.caioa.link/main/apk/dev/mobile-java-arm64_v8a.apk",
+        "icon": "https://d-ssl.dtstatic.com/uploads/blog/202204/17/20220417163301_c0a6a.thumb.700_0.jpg_webp",
+        "version": "v8a"
+      },
+      {
+        "name": "手機-py",
+        "url": "https://fm.caioa.link/main/apk/dev/mobile-python-armeabi_v7a.apk",
+        "icon": "https://d-ssl.dtstatic.com/uploads/blog/202204/17/20220417163301_c0a6a.thumb.700_0.jpg_webp",
+        "version": "v7a"
+      },
+      {
+        "name": "手機-py",
+        "url": "https://fm.caioa.link/main/apk/dev/mobile-python-arm64_v8a.apk",
+        "icon": "https://d-ssl.dtstatic.com/uploads/blog/202204/17/20220417163301_c0a6a.thumb.700_0.jpg_webp",
+        "version": "v8a"
+      }
+    ]
+  }
+]

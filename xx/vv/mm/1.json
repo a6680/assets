@@ -1,0 +1,10 @@
+{
+"urls":[
+   {"name":"路由托管4x","url":"http://glorious-wahoo-flexible.ngrok-free.app/4.4.json"},
+   {"name":"本地包","url":"file://Download/ys/2.json"},
+   {"name":"本地包4x","url":"file://Download/ys/4.4.json"},
+   {"name":"vercel 托管","url":"https://tv.a99.asia/2.json"},
+   {"name":"netlify 托管","url":"https://tvbox-backup.netlify.app/2.json"}
+
+    ]
+}
